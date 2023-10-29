@@ -1,4 +1,4 @@
-# CODSOFT
+# Titanic Dataset
 Data Insight 1: Count Plot for Null Values
 
 Data quality is crucial in any data analysis or modeling task. One important aspect of data quality is handling missing values or null values in your dataset. To gain insights into the extent of missing data, a count plot can be a valuable tool. A count plot, created using libraries like Seaborn in Python, helps you visualize and calculate the number of null values in each column of your dataset.
